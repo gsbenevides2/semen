@@ -1,0 +1,9 @@
+{
+  "name": "semen",
+  "version": "1.0.0",
+  "description": "System for sending special mass messages via whatsapp.",
+  "main": "index.js",
+  "repository": "https://github.com/gsbenevides2/semen",
+  "author": "gsbenevides2",
+  "license": "MIT"
+}
